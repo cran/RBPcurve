@@ -1,4 +1,4 @@
-9f853243ff21d57872f343a991874942 *DESCRIPTION
+75102335515e26a471733e5e3953c7ff *DESCRIPTION
 8e7328494d7dbf2d425bc787d73f0d4a *NAMESPACE
 fc549ef58675b6c46027b79689c7f7ad *R/addGoodCalib.R
 2509e5991b6ca0df406fd69623dd183d *R/addPEV.R
@@ -8,6 +8,7 @@ eeb53b8d84d726d315430c2e60235e34 *R/addWellCalib.R
 27bc0f31091040e6d872225c7ebe970e *R/makeRBPObj.R
 4433beba8bfc3effa1c7c5ac2163ce00 *R/plotRBPCurve.R
 df8815e247930ae1f4f2428c83cb6c1b *R/zzz.R
+70d5c05933616921d10bc42e72bda4ed *README.md
 22f0f8668850702b6ef909affe2763b8 *man/addGoodCalib.Rd
 e74eddba5b8afcb424cbced18025718f *man/addPEV.Rd
 1a25e6ee7d00f2c47207cf86847e5355 *man/addPrevalence.Rd
@@ -16,7 +17,7 @@ e74eddba5b8afcb424cbced18025718f *man/addPEV.Rd
 2de748fc07cf3c07973e3ad5f616235b *man/makeRBPObj.Rd
 aa094f3ce6914103e59c9e24ecdb1d1c *man/plotRBPCurve.Rd
 ecf488c9cfde59fe4a7c646b400985bb *tests/run-all.R
-3b75fce1359c5128c030d237a50fd219 *tests/testthat/helper_objects.R
+fc919632e7f6990a9c1d26d982080cd3 *tests/testthat/helper_objects.R
 c786e5add27803c2b814dad37bb5d511 *tests/testthat/test_add.R
-29939594dd1fed2798c9e3f51e0896cf *tests/testthat/test_makeRBPObj.R
+9e7ee105b5a3f1397eeb586418d087e0 *tests/testthat/test_makeRBPObj.R
 fafbf14017fec538b61b4d25629eed7a *tests/testthat/test_plotRBPCurve.R
