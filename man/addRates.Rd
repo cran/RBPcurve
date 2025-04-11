@@ -4,8 +4,14 @@
 \alias{addRates}
 \title{Visualizes the TPR and FPR on the RBP curve.}
 \usage{
-addRates(obj, plot.values = TRUE, digits = 3L, col = "black",
-  thresh = obj$prev, thresh.label = "thresh")
+addRates(
+  obj,
+  plot.values = TRUE,
+  digits = 3L,
+  col = "black",
+  thresh = obj$prev,
+  thresh.label = "thresh"
+)
 }
 \arguments{
 \item{obj}{[\code{\link{RBPObj}}]\cr

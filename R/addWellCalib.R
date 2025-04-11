@@ -16,7 +16,7 @@
 #'   A specification for the the plotting color for the areas.
 #' @param pos [\code{list}] 
 #'   A named List that determines the \code{x} and \code{y} positioning of a subplot that
-#'   compares the areas in additional barplots (see \code{\link{subplot}}).
+#'   compares the areas in additional barplots (see \code{\link[TeachingDemos]{subplot}}).
 #'   Can be \code{NA} for no additional subplot.
 #'   Default is \code{pos = NULL} for an auto positioning in the topleft quadrant.
 #' @return A matrix that contains the average of the \dQuote{probabilities within deciles}

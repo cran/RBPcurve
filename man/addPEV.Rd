@@ -4,8 +4,13 @@
 \alias{addPEV}
 \title{Visualize the PEV on the RBP curve.}
 \usage{
-addPEV(obj, plot.values = TRUE, show.info = TRUE, text.col = "black",
-  col = rgb(0, 0, 0, 0.25))
+addPEV(
+  obj,
+  plot.values = TRUE,
+  show.info = TRUE,
+  text.col = "black",
+  col = rgb(0, 0, 0, 0.25)
+)
 }
 \arguments{
 \item{obj}{[\code{\link{RBPObj}}]\cr

@@ -4,10 +4,20 @@
 \alias{plotRBPCurve}
 \title{Plot residual-based predictiveness (RBP) curve.}
 \usage{
-plotRBPCurve(obj, main = "RBP Curve", xlab = "Cumulative Percentage",
-  ylab = "Estimated Residuals", type = "l", ylim = c(-1, 1.2),
-  x.adj = c(NA, -0.5), y.adj = c(NA, NA), cond.axis = FALSE,
-  title.line = ifelse(cond.axis, 3, 2), add = FALSE, ...)
+plotRBPCurve(
+  obj,
+  main = "RBP Curve",
+  xlab = "Cumulative Percentage",
+  ylab = "Estimated Residuals",
+  type = "l",
+  ylim = c(-1, 1.2),
+  x.adj = c(NA, -0.5),
+  y.adj = c(NA, NA),
+  cond.axis = FALSE,
+  title.line = ifelse(cond.axis, 3, 2),
+  add = FALSE,
+  ...
+)
 }
 \arguments{
 \item{obj}{[\code{\link{RBPObj}}]\cr
